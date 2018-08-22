@@ -12,6 +12,7 @@ Output: 7 -> 0 -> 8
 
 Explanation: 342 + 465 = 807.
 # Java实现
+```java
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -39,4 +40,4 @@ class Solution {
         return ret.next;
     }
 }
- 
+```
